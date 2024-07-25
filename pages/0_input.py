@@ -11,7 +11,7 @@ import streamlit as st
 #python -m streamlit run Main.py
 
 
-# 입력 필드 생성
+# 입력 필드 생성#h
 text1 = st.text_input("입력 1")
 text2 = st.text_input("입력 2")
 
