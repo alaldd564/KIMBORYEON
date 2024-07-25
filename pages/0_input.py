@@ -4,7 +4,7 @@ import streamlit as st
 
 # if st.button("Save"):
 #     st.session_state.text = text
-
+""
 # #st.session_state는 키와 값으로 나뉨
 # #st.session_state.key or
 # #st.session_state["key"]

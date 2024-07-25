@@ -7,6 +7,7 @@ st.sidebar.header("score")
 st.write("문제의 점수를 계산합니다.")
 
 # 세션 상태에서 사용자 입력과 정답 가져오기
+
 answer1 = st.session_state.get('answer1', '')
 answer2 = st.session_state.get('answer2', '')
 text1 = st.session_state.get('text1', '')

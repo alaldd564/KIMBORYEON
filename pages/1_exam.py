@@ -14,6 +14,7 @@ st.write("6 + 3 =")
 answer2 = st.text_input("정답 2")
 
 # 저장 버튼 클릭 시
+
 if st.button("Save Answers"):
     # 값을 session_state에 저장
     st.session_state['answer1'] = answer1
