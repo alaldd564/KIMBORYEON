@@ -7,6 +7,7 @@ st.set_page_config(
     page_title="Main",
     page_icon="👋",
 )
+""
 
 st.title("시험에 도전한 여러분을 환영합니다 👋")
 
